@@ -57,3 +57,4 @@ for lokasi, info in data_panen.items():
     print(f"  Hasil Panen Kedelai: {kedelai}")
     print(f"  Status Lokasi: {kondisi}")
     print()
+    print('hallo')
